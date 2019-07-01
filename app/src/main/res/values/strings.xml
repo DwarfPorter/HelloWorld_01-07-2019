@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Hello world</string>
-    <string name="button">кнопка</string>
     <string name="b2">Button</string>
     <string name="textview">Hello!</string>
 </resources>
